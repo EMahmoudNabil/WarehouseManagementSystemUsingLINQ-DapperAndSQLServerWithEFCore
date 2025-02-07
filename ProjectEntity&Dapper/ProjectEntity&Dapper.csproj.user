@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Customer\Add Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\List Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_UserMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoices\add Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoices\frm_CheckInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoices\frm_edit_invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Invoices\frm_invoiceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_AdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Products Form\Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Products Form\frm_AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Products Form\Product List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="user\Change Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="user\List User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="user\Profile Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="user\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
